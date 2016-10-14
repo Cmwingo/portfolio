@@ -26,3 +26,24 @@
   font-size: 14pt;
   font-style: oblique;
 }
+
+.sidebar{
+  float: right;
+  background-color: lightskyblue;
+  border: solid;
+  border-width: thin;
+}
+
+.sidebar img{
+  padding: 10px;
+  margin-right: 10px;
+  margin-left: auto;
+}
+
+.sidebar .blocktext{
+  float: right;
+}
+
+.floattext{
+  float: left;
+}
