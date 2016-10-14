@@ -10,7 +10,7 @@ _This page is the face of my web portfolio. It includes a picture of me, links t
 
 ## Setup/Installation Requirements
 
-* _This page is viewable at cmwingo.github.io/portfolio. Alternatively, you can install it on your local machine by cloning my git repository to your desktop folder, and then opening index.html located inside the new folder_
+* _This page is viewable at http://cmwingo.github.io/portfolio. Alternatively, you can install it on your local machine by cloning my git repository to your desktop folder, and then opening index.html located inside the new folder_
 
 ## Known Bugs
 
