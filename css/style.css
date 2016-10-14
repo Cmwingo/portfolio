@@ -14,6 +14,7 @@
   float: left;
   height: 15%;
   width: 15%;
+  padding: 5px;
 }
 
 .glowing{
@@ -46,4 +47,16 @@
 
 .floattext{
   float: left;
+}
+
+.panel-title{
+  font-weight: bold;
+}
+
+h3{
+  font-family: "Times New Roman";
+}
+
+.blocktext{
+  float: right;
 }
