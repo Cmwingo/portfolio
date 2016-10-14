@@ -6,10 +6,6 @@
   width: 100%;
 }
 
-.jumbotron h1{
-  text-align: center;
-}
-
 .panel-body img{
   float: left;
   height: 15%;
@@ -59,4 +55,22 @@ h3{
 
 .blocktext{
   float: right;
+}
+
+h1{
+  font-family: Arial;
+  font-style: italic;
+  text-align: center;
+}
+
+.jumbotron{
+  background-color: black;
+}
+
+body{
+  background-color: black;
+}
+
+.panel-body{
+  background-color: #9e9999;
 }
